@@ -1,4 +1,5 @@
 ## Hi there 👋
+   This accont is principaly to studing so i will try to do my best
 
 <!--
 **FilipeGabrielRdO/FilipeGabrielRdo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
